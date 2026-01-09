@@ -2,7 +2,7 @@
 #PLAYLIST:IPTVru
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",1 канал HD
-https://vsd134.okcdn.ru/hls/528984312566.m3u8/sig/lxikM2f6hiw/expires/1768083296732/srcIp/77.179.76.38/urls/185.226.52.95/clientType/0/srcAg/CHROME/mid/1115050286838/video.m3u8?p
+https://vsd97.okcdn.ru/hls/10225555212846.m3u8/sig/LmLlnAPvkDk/expires/1768083596183/srcIp/77.179.76.38/urls/45.136.21.66/clientType/0/srcAg/CHROME/mid/11365475425838/video.m3u8?p
 #EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" group-title="Общественные",360° HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="cctv-ru" tvg-logo="https://iptvx.one/picons/cctv-ru.png" group-title="Общественные",CGTN
