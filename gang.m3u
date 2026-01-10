@@ -744,3 +744,5 @@ http://rusradio.hostingradio.ru/rusradio96.aacp
 http://hitfm.hostingradio.ru/hitfm128.mp3
 #EXTINF:-1 tvg-id="yumor-fm" tvg-logo="https://iptvx.one/picons/yumor-fm.png" group-title="Радио",Юмор FM
 https://pub0301.101.ru:8443/stream/air/mp3/256/102
+#EXTINF:-1 tvg-id="rt" tvg-logo="https://habrastorage.org/getpro/moikrug/uploads/company/100/006/642/6/logo/medium_b06c86d21300f83a6c896613adf0b646.jpg" group-title="Общественные",RT
+https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe/chunklist.m3u8
