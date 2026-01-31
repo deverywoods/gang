@@ -563,7 +563,7 @@ https://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 tvg-id="moskovsky-obrazovatelny" tvg-logo="https://iptvx.one/picons/moskovsky-obrazovatelny.png" group-title="Познавательные",Мособр TV HD
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="Познавательные",Моя Планета
-http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
+https://s.xittv.net/Ie0yKbCkNI_KuBJH2eFEAA/118/1769897921/index.m3u8
 #EXTINF:-1 tvg-id="morskoy" tvg-logo="https://iptvx.one/picons/morskoy.png" group-title="Познавательные",Моя стихия
 
 #EXTINF:-1 tvg-id="eureka-hd" tvg-logo="https://iptvx.one/picons/kosmichesky.png" group-title="Познавательные",Первый Космический HD
@@ -746,3 +746,4 @@ http://hitfm.hostingradio.ru/hitfm128.mp3
 https://pub0301.101.ru:8443/stream/air/mp3/256/102
 #EXTINF:-1 tvg-id="rt" tvg-logo="https://habrastorage.org/getpro/moikrug/uploads/company/100/006/642/6/logo/medium_b06c86d21300f83a6c896613adf0b646.jpg" group-title="Общественные",RT
 https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe/chunklist.m3u8
+
