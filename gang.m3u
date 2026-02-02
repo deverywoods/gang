@@ -1,8 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #PLAYLIST:IPTVru
 
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Информационные
-",1 канал HD
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Информационные",1 канал HD
 https://s.viks.tv/24tICPau4jRQV05E513hHA/540/1770055177/index.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-logo="https://iptvx.one/picons/rtvi.png" group-title="Общественные",RTVi
 http://178.134.1.158:8081/rtvi/index.m3u8
