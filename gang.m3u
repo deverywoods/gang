@@ -2,7 +2,7 @@
 #PLAYLIST:IPTVru
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",1 канал HD
-https://s.viks.tv/24tICPau4jRQV05E513hHA/540/1770055177/index.m3u8http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+https://s.viks.tv/24tICPau4jRQV05E513hHA/540/1770055177/index.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-logo="https://iptvx.one/picons/rtvi.png" group-title="Общественные",RTVi
 http://178.134.1.158:8081/rtvi/index.m3u8
 #EXTINF:-1 tvg-id="tv-brics" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="Общественные",TV BRICS HD
