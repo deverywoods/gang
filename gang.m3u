@@ -2,7 +2,7 @@
 #PLAYLIST:IPTVru
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Информационные",1 канал HD
-https://frv6.sysnet.top/video/38MWTfMGf3YjUDAyqueJrw/2/playlist.m3u8
+https://vsd254.okcdn.ru/hls/10431890655804.m3u8/sig/bL-U-efCOu4/expires/1770381122645/srcIp/78.51.243.203/urls/45.136.22.39/clientType/0/srcAg/CHROME/mid/11797871402556/10431890655804_high/index.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-logo="https://iptvx.one/picons/rtvi.png" group-title="Общественные",RTVi
 http://178.134.1.158:8081/rtvi/index.m3u8
 #EXTINF:-1 tvg-id="tv-brics" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="Общественные",TV BRICS HD
@@ -559,7 +559,7 @@ https://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 tvg-id="moskovsky-obrazovatelny" tvg-logo="https://iptvx.one/picons/moskovsky-obrazovatelny.png" group-title="Познавательные",Мособр TV HD
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="Познавательные",Моя Планета
-https://s.tivix.co/4qhvMwg3Qbn8M5pybvTK2A/118/1770137139/index.m3u8
+https://s.tvua.biz/DWFncXxoTwOIyLcMdBU0bw/118/1770312469/index.m3u8
 #EXTINF:-1 tvg-id="morskoy" tvg-logo="https://iptvx.one/picons/morskoy.png" group-title="Познавательные",Моя стихия
 
 #EXTINF:-1 tvg-id="eureka-hd" tvg-logo="https://iptvx.one/picons/kosmichesky.png" group-title="Познавательные",Первый Космический HD
